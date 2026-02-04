@@ -20,10 +20,10 @@
 ## HTML [ Handwritten Code | Printed Output]
 
 ### HTML Basic
-    - Task: https://github.com/PrashDev425/html-11/blob/main/html-basic.md#final-practical--simple-information-page-about-html
-    - Output: https://github.com/PrashDev425/html-11/blob/main/info.png
+- Task: https://github.com/PrashDev425/html-11/blob/main/html-basic.md#final-practical--simple-information-page-about-html
+- Output: https://github.com/PrashDev425/html-11/blob/main/info.png
 
 ### HTML Table 
-    - Task: https://github.com/PrashDev425/html-table?tab=readme-ov-file#complete-timetable-project
-    - Output: https://github.com/PrashDev425/html-table/blob/main/timetable.png
+- Task: https://github.com/PrashDev425/html-table?tab=readme-ov-file#complete-timetable-project
+- Output: https://github.com/PrashDev425/html-table/blob/main/timetable.png
 
