@@ -4,7 +4,7 @@
 
 > Programs given by SK Sir in theory class.  
 
-## MS Word
+## MS Word 
 
 ## Basic 
 - https://github.com/PrashDev425/class-11-lab/blob/main/ms-word-basic.md
@@ -17,7 +17,7 @@
 
 - 
 
-## HTML
+## HTML [ Handwritten Code | Printed Output]
 
 ### HTML Basic
     - Task: https://github.com/PrashDev425/html-11/blob/main/html-basic.md#final-practical--simple-information-page-about-html
